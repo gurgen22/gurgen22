@@ -4,11 +4,11 @@
 <h4 align="center">🔭 I’m currently working on c#, .NET 5 </h4>
 <h4 align="center">🌱 I’m currently learning docker, rabbitmq </h4>
 <h4 align="center">👯 I’m looking to collaborate </h4>
-- 📫 How to reach me **gurgenk22@gmail.com**
+
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurgen22" alt="gurgen22" /></a> </p>
 
-
+- 📫 How to reach me **gurgenk22@gmail.com**
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
