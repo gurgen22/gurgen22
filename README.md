@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on 
 - 
 -->
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=gurgen22&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gurgen22&show_icons=true&theme=radical)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gurgen22&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
