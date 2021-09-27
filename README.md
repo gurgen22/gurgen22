@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on c#, .NET 5
+###🔭 I’m currently working on c#, .NET 5
 🌱 I’m currently learning docker, rabbitmq, 
 👯 I’m looking to collaborate on 
 - 
