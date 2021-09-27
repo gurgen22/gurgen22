@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
-<h4 align="center">🔭 I’m currently working on c#, .NET 5 </h4>
+<h4 align="center">🔭 I’m currently working on C#, .NET 5 </h4>
 <h4 align="center">🌱 I’m currently learning docker, rabbitmq </h4>
 <h4 align="center">👯 I’m looking to collaborate </h4>
 
