@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 
 -->
-![Github stats 1](https://github-readme-stats.vercel.app/api?gurgne22=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?gurgen22=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=gurgne22&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=gurgne22&show_icons=true&theme=radical)
