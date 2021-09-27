@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<!--
-**gurgen22/gurgen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 
--->
+<h1 align="center">Hi 👋, I'm Kemal</h1>
+<h3 align="center">A Software Developer from Turkey</h3>
 🔭 I’m currently working on c#, .NET 5
 🌱 I’m currently learning docker, rabbitmq, 
 👯 I’m looking to collaborate 
