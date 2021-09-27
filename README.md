@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **gurgenk22@gmail.com**
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=gurgen22&show_icons=true&theme=radical)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gurgen22&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kemal-gürgen" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="gurgen22" height="30" width="30" /></a>
