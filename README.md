@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
-🔭 I’m currently working on c#, .NET 5
-🌱 I’m currently learning docker, rabbitmq, 
-👯 I’m looking to collaborate 
+<h4 align="center">🔭 I’m currently working on c#, .NET 5 </h4>
+<h4 align="center">🌱 I’m currently learning docker, rabbitmq </h4>
+<h4 align="center">👯 I’m looking to collaborate </h4>
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gurgen22&show_icons=true&theme=radical)
