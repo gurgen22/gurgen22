@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **gurgenk22@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/kemal-gürgen" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="gurgen22" height="30" width="30" /></a>
+<h3 align="left">Technologies:</h3>
+<p align="left"> 
+  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.google.com/search?q=docker+orjinal+png&tbm=isch&ved=2ahUKEwil6Kel-Z_zAhVDQuUKHUMsD0oQ2-cCegQIABAA&oq=docker+orjinal+png&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BAgAEBM6CAgAEAgQHhATUIa5A1jL1wNg3NoDaABwAHgAgAGHAogB5A2SAQYwLjEwLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ZiNSYaWdG8OElQfD2LzQBA&rlz=1C1CHZN_trTR936TR936#imgrc=FjROO9J98394DM" alt="postgresql" width="30" height="30"/> </a>
