@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
-<h4 align="center">🔭 I’m currently working on Java, Spring Boot </h4>
-<h4 align="center">🌱 I’m currently learning blockchain </h4>
-<h4 align="center">👯 I’m looking to collaborate </h4>
+<h4 align="center">🔭 I’m currently working on Java, Spring Boot, and now extensively using Node.js </h4>
+<h4 align="center">🌱 I have been involved in projects using Ethereum, Tron, Solana, and Bitcoin networks </h4>
+<h4 align="center">👯 I’m looking to collaborate on innovative projects in these areas </h4>
 
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurgen22" alt="gurgen22" /></a> </p>
