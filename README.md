@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 <h4 align="center">🔭 I’m currently working on Java, Spring Boot, and now extensively using Node.js </h4>
-<h4 align="center">🌱 I have been involved in projects using Ethereum, Tron, Solana, and Bitcoin networks </h4>
+<h4 align="center">🌱 I have been involved in projects using Ethereum, Tron, Solana, and Stellar networks </h4>
 <h4 align="center">👯 I’m looking to collaborate on innovative projects in these areas </h4>
 
 </p>
